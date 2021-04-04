@@ -9,15 +9,11 @@
     "testrail",
     "reporter"
   ],
-  "author": {
-    "name": "Shruti Rathee",
-    "email": "shruti.rathee@outlook.com"
-  },
+  "author": "Shruti Rathee <shruti.rathee@outlook.com>",
   "license": "MIT",
-  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shrutirathee/cypress-to-testrail-reporter.git"
+    "url": "git+https://github.com/shrutirathee/cypress-to-testrail-reporter.git"
   },
   "bugs": {
     "url": "https://github.com/shrutirathee/cypress-to-testrail-reporter/issues"
@@ -39,5 +35,6 @@
     "chai": "^4.2.0",
     "rimraf": "^3.0.2",
     "typescript": "^4.1.2"
-  }
+  },
+  "homepage": "https://github.com/shrutirathee/cypress-to-testrail-reporter#readme"
 }
