@@ -1,5 +1,5 @@
 {
-  "name": "cypress-to-testrail-reporter",
+  "name": "testrail-reporter-with-flag-to-post-for-cypress",
   "version": "1.1.1",
   "description": "A test reporter for posting results from Cypress Automation Scripts to Test Rail",
   "main": "index.js",
